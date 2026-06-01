@@ -1,106 +1,92 @@
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the aaaa app for mobile devices, together with any related services operated by yildiray yildirim (collectively, the "Application"). yildiray yildirim is hereby referred to as the "Service Provider".
+**App:** ColorSwitchGameApp (`com.yildiray.games.colorswitch`)  
+**Developer / Publisher:** Yildiray Yildirim  
+**Effective date:** June 1, 2026  
+**Contact:** yildirayyildirim.eu@gmail.com
 
-**Information Collection and Use**
+This Privacy Policy explains what information may be collected or processed when you use ColorSwitchGameApp, how that information is used, and what choices you have.
 
-The Application collects information when you download and use it. This information may include information such as
+## Information We Collect or Process
 
-*   Your device's Internet Protocol address
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   your mobile operating system you use
+ColorSwitchGameApp uses a limited amount of information to provide the game experience:
 
-**Cookies and tracking technologies**
+- **Player profile:** The app may create an anonymous player ID through Firebase Anonymous Authentication. A default player name may be generated, and you may change your player name. Your player name may be visible on public leaderboards or in multiplayer room/lobby screens.
+- **Gameplay data:** The app may process scores, high scores, best combo/streak, room codes, room status, room host ID, player results, join/finish timestamps, and similar gameplay data.
+- **Local device data:** The app may store your high score, tutorial-seen status, and a local guest player ID on your device. This data generally remains on your device until you delete the app, clear app data, or the data is otherwise removed.
+- **Advertising and technical data:** Rewarded ads may be provided through Google Mobile Ads/AdMob, Google Mobile Ads on iOS, and Huawei Ads Kit. These SDKs may process data such as IP address, approximate location inferred from IP address, advertising identifiers, device and app information, ad views/clicks/video views, diagnostics, and performance information.
+- **Support communications:** If you contact us by email, we may process your email address, message content, and related communication records to respond to your request.
 
-The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
+The app does not currently request access to your camera, microphone, contacts, photo library, precise location, health data, payment information, or list of installed apps.
 
-**Your Rights**
+## How We Use Information
 
-You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at aaasda@gmail.com.
+We use information to:
 
-**Your California privacy rights (CCPA/CPRA)**
+- Provide the game, scoring system, leaderboards, and multiplayer room features.
+- Match your player name with your anonymous player ID and scores.
+- Remember your local high score and tutorial preference.
+- Show rewarded ads for optional in-game benefits.
+- Support advertising measurement, fraud prevention, security, and technical performance through service providers.
+- Respond to support requests and comply with legal obligations.
 
-If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at aaasda@gmail.com.
+## Third-Party Service Providers
 
-The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+The app may use the following third-party services. These services may process information according to their own privacy policies and terms:
 
-For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information the Service Provider requests will be retained and used as described in this privacy policy.
+- Firebase Authentication and Cloud Firestore: https://firebase.google.com/support/privacy
+- Google Privacy Policy: https://policies.google.com/privacy
+- Google advertising technologies: https://policies.google.com/technologies/ads
+- Google Mobile Ads SDK data disclosures: https://developers.google.com/admob/android/privacy/play-data-disclosure
+- Huawei Ads privacy statement: https://consumer.huawei.com/minisite/cloudservice/ads/EU/b0/latest/privacy-statement-en-us.htm?country=EU&language=en-us
+- Huawei Privacy Policy: https://www.huawei.com/en/privacy-policy
 
-**Third Party Access**
+We do not sell your personal information. However, the service providers listed above may process or share information to provide app functionality, ads, ad measurement, security, and fraud prevention.
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+## Advertising Choices
 
-**International Data Transfers**
+The app may show rewarded ads. Ads may be personalized or non-personalized depending on your device settings, region, consent choices, and the policies of the advertising provider.
 
-The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+You can reset, delete, or limit use of your advertising identifier in your device settings:
 
-*   Standard Contractual Clauses (SCCs) approved by the European Commission
-*   Adequacy decisions or other legally recognized transfer mechanisms
-*   Your consent, where required and legally permitted
+- On Android: Settings > Privacy > Ads, or Settings > Google > Ads.
+- On iOS: Settings > Privacy & Security > Tracking, and related advertising/privacy settings.
+- On Huawei/HMS devices: Settings > Privacy > Ads and Privacy, or HMS Core ad settings.
 
-Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+## Retention and Deletion
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+- Local score data, tutorial preference, and local guest ID may remain on your device until you delete the app, clear app data, or the data is otherwise removed.
+- Leaderboard and room data stored in Firebase may be kept as long as needed to provide the game features, prevent abuse, and maintain the service.
+- Support emails may be kept as long as reasonably needed to answer your request and maintain support records.
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://policies.google.com/technologies/partner-sites)
-*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+To request access, correction, or deletion of your data, contact us at **yildirayyildirim.eu@gmail.com**. We may ask for reasonable information, such as your player name, approximate score, room code, or other details needed to locate the relevant data.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+## Security
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+We use reasonable technical and organizational measures to protect information. Firebase and advertising services transmit data through the security mechanisms provided by those service providers. However, no internet or mobile network transmission can be guaranteed to be completely secure.
 
-**Opt-Out Rights**
+## Children and Families
 
-You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+ColorSwitchGameApp can be played by all age groups. To protect children's privacy, the app does not directly ask for sensitive information such as full name, email address, phone number, home address, photos, precise location, contacts, camera access, or microphone access. However, gameplay features and advertising services may process anonymous player IDs, player names, scores/combos, room data, and advertising/technical data.
 
-To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at aaasda@gmail.com.
+Players under 13, or under the digital consent age in their country, should use the app with parent or guardian knowledge. Parents or guardians may contact us at **yildirayyildirim.eu@gmail.com** to request review, correction, or deletion of their child's data.
 
-**Data Retention Policy**
+For versions published in child-directed stores, categories, or regions, advertising and data processing settings will be configured according to applicable requirements, including COPPA and other local children's privacy rules.
 
-The Service Provider retains personal data based on its necessity for the stated purposes:
+## International Data Transfers
 
-*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
-*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
-*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
-*   Data required for legal compliance: Retained as long as required by applicable law
+Service providers such as Firebase, Google Mobile Ads/AdMob, and Huawei Ads may process information on servers located in different countries. By using the app, you understand that your information may be processed outside your country of residence.
 
-You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at aaasda@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
+## Your Rights
 
-**Children**
+Depending on where you live, you may have rights to access, correct, delete, restrict, object to processing, or request a copy of your personal information. To exercise these rights, contact us at **yildirayyildirim.eu@gmail.com**.
 
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+## Changes to This Policy
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (aaasda@gmail.com) so that they will be able to take the necessary actions.
+We may update this Privacy Policy from time to time. The latest version will be posted on this page with an updated effective date. Continued use of the app after changes means you accept the updated policy.
 
-**Security**
+## Contact
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+For privacy questions, requests, or complaints:
 
-**Data Breach Notification**
-
-If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
-
-**Changes**
-
-The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
-
-Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at aaasda@gmail.com.
-
-This privacy policy is effective as of 2026-06-01
-
-**Your Consent**
-
-Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
-
-**Contact Us**
-
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at aaasda@gmail.com.
-
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+**Email:** yildirayyildirim.eu@gmail.com
